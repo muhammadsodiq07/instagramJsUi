@@ -1585,6 +1585,16 @@ li {
   top: -18px;
 }
 
+.carousel-item {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.imgsCarousel {
+  width: 100% !important;
+  height: 100vh !important;
+}
+
 ul {
   list-style-type: none;
 }

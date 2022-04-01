@@ -220,7 +220,7 @@ function showIt(elStories, num){
       elBookmark.style.color = "black";
       elSavedList.appendChild(elItem);
     }
-    
+
   });
 }
 
